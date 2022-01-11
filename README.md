@@ -1,4 +1,4 @@
-# analysisng-16S-data-in-R
+# Analysing-16S-data-in-R
 analysing and visualising data in R
 ##### Installing required packages for microbiome data analysis with phyloseq
 
